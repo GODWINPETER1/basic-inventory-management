@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Rice",
+        "category": "raw-material",
+        "quantity": 60,
+        "price": 200000
+    },
+    {
+        "name": "Banana",
+        "category": "raw-material",
+        "quantity": 10,
+        "price": 50000
+    }
+]
